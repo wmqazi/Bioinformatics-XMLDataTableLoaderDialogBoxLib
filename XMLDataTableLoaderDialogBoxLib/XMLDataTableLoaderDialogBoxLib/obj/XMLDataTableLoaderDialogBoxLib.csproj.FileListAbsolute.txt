@@ -1,0 +1,7 @@
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\bin\Debug\XMLDataTableLoaderDialogBoxLib.dll
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\bin\Debug\XMLDataTableLoaderDialogBoxLib.pdb
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\obj\Debug\XMLDataTableLoaderDialogBoxLib.csproj.GenerateResource.Cache
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\obj\Debug\XMLDataTableLoaderDialogBoxLib.dll
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\obj\Debug\XMLDataTableLoaderDialogBoxLib.pdb
+D:\Ph. D. Code Base 2\XMLDataTableLoaderDialogBoxLib\XMLDataTableLoaderDialogBoxLib\obj\Debug\Qazi.Common.GUI.CommonDialogBoxes.XMLDataTableLoaderWnd.resources
